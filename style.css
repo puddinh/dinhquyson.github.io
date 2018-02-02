@@ -10,7 +10,6 @@
 	box-sizing: border-box;
 
 }					/*Reset CSS*/
-
 body {
 	font-family: sans-serif;
 }
@@ -39,6 +38,8 @@ header{
     height: 55px;
     background-repeat: no-repeat;
 }
+div.test{}
+
 
 .logo:hover{
 	background-image: url(img/logo2.png);
